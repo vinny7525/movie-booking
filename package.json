@@ -1,0 +1,28 @@
+{
+  "name": "movies-for-u",
+  "version": "1.0.0",
+  "description": "A React application for managing and viewing movies.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "movies"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "@vitejs/plugin-react-swc": "^1.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4",
+    "lovable-tagger": "^1.0.0",
+    "typescript": "^4.4.3"
+  }
+}
